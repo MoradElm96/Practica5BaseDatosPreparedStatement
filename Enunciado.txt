@@ -1,0 +1,18 @@
+Tarea 5 -  BBDD y JAVA (Con sentencias Preparadas)
+
+1.	Una empresa te solicita que desarrolles una aplicación de gestión de alumnos para la escuela de informática. Ejecutar el script alumnos-asignaturas.sql. Desarrollar las siguientes funciones mediante sentencias preparadas:
+
+a)	Dar de alta un alumno: se deberán proporcionar los datos del alumno
+b)	Eliminar un alumno: se deberá proporcionar el id del alumno
+c)	Matricular a un alumno en asignaturas: se identificará al alumno y a las asignaturas
+d)	Ver las asignaturas asociadas a un alumno, mostrando las que ha cursado y las que no. Se mostrarán todos los datos del alumno y de las asignaturas.
+
+
+
+Posteriormente, desarrollar una clase de Prueba para probar la aplicación y que realice lo siguiente mediante un menú:
+1)	Crear un nuevo alumno y almacenarlo en BD
+2)	Busca al alumno nuevo y muestra sus datos por pantalla
+3)	Borrar un alumno existente
+4)	Matricular al alumno nuevo en varias asignaturas
+5)	Consultar las asignaturas para las que está matriculado el nuevo alumno y mostrarlas por pantalla
+
